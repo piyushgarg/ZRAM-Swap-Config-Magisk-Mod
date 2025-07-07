@@ -1,5 +1,7 @@
 # ZRAM Swap Configurator Magisk Module
 
+This module is a fork only. Do not expect anything else other than the links below. Go to the https://t.me/ryukinotes and find the information. The information in telegram is never indexed or crawled for web search.
+
 ## Descriptions
 - Configures your device ZRAM Swap disk
 - Resizes ZRAM Swap disk to 3 GB by default (READ Optionals bellow if you want different configurations!)
@@ -31,7 +33,7 @@
 - You can contribute ideas about this Magisk Module here: https://t.me/androidappsportdevelopment
 
 ## Frequently asked Questions
-- https://github.com/piyushgarg/ZRAM-Swap-Config-Magisk-Mod/wiki/Frequently-Asked-Questions
+- [FAQ](https://github.com/piyushgarg/ZRAM-Swap-Config-Magisk-Mod/wiki/Frequently-Asked-Questions)
 
 
 
