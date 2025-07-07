@@ -4,7 +4,7 @@
 - Configures your device ZRAM Swap disk
 - Resizes ZRAM Swap disk to 3 GB by default (READ Optionals bellow if you want different configurations!)
 - Sets several swap preferences
-- What's ZRAM Swap? Read this: https://t.me/ryukinotes/58. For more detailed information, please read it at Android & Google documentation instead!
+- What's ZRAM Swap? [Read this](https://github.com/piyushgarg/ZRAM-Swap-Config-Magisk-Mod/wiki/Configuration#simple-explanation-of-zram-swap). For more detailed information, please read it at Android & Google documentation instead!
 - This module is a tool for advanced users only. There will never recommendations nor restrictions. All at user respective policies. Do not use this if you don't even know what is this! DwYOR!
 
 ## Requirements
@@ -16,22 +16,22 @@
 - Install Disk Info app from Play Store to see your device Swap size changes
 
 ## Optionals
-- https://t.me/ryukinotes/6
-- Global: https://t.me/ryukinotes/35
+- [Configuration](https://github.com/piyushgarg/ZRAM-Swap-Config-Magisk-Mod/wiki/Configuration)
+- [Global Troubleshootings](https://github.com/piyushgarg/ZRAM-Swap-Config-Magisk-Mod/wiki/Global-Troubleshootings)
 
 ## Troubleshootings
-- Global: https://t.me/ryukinotes/34
+- [Global](https://github.com/piyushgarg/ZRAM-Swap-Config-Magisk-Mod/wiki/Global-Troubleshootings)
 
 ## Support & Bug Report
-- https://t.me/ryukinotes/54
+- [Support Bug Report](https://github.com/piyushgarg/ZRAM-Swap-Config-Magisk-Mod/wiki/Bug-Report---Fix---Feedback)
 - If you don't do above, issues will be closed immediately
 
 ## Credits and Contributors
 - https://t.me/androidryukimodsdiscussions
 - You can contribute ideas about this Magisk Module here: https://t.me/androidappsportdevelopment
 
-## Sponsors
-- https://t.me/ryukinotes/25
+## Frequently asked Questions
+- https://github.com/piyushgarg/ZRAM-Swap-Config-Magisk-Mod/wiki/Frequently-Asked-Questions
 
 
 
